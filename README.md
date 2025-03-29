@@ -1,4 +1,4 @@
-# 🚀 My Helm App – Multi-Environment Kubernetes Deployment
+# 🚀 Helm App – Multi-Environment Kubernetes
 
 This repository showcases a full CI/CD pipeline using **GitHub Actions**, **Helm**, and **Minikube** to deploy a Python Flask application into **three isolated environments**:
 
